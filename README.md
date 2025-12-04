@@ -9,6 +9,8 @@ Beyond visualization, it now features a robust **Document Builder** and **Depend
 ---
 
 ## ⚡ Key Features
+<img width="800" height="400" alt="Screenshot 2025-12-04 144337" src="https://github.com/user-attachments/assets/69b2248e-b837-4338-8857-58a1bf8ec4b3" />
+<img width="500" height="400" alt="Screenshot 2025-12-04 144254" src="https://github.com/user-attachments/assets/8058540a-1520-46ec-bb91-517103bfc2f1" />
 
 ### 🧠 Intelligent Visualization
 *   **Automated Mind Mapping**: Instantly converts text into a node-based tree structure. Nodes are intelligently classified as "Process" (actionable) or "Info" (knowledge).
